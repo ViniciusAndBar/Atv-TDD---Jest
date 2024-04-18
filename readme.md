@@ -15,6 +15,7 @@ Este é um projeto que implementa uma calculadora de salário de funcionários e
 
 ### Execução dos Testes
 Para executar os testes para a calculadora de salário de funcionários, use o seguinte comando:
+    '''bash 
     npm test
 
 ### E caso queira testar um especifico (exemplo utilizando o PersonDAO, caso queira outro, trocar ali):
