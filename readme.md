@@ -11,11 +11,12 @@ Este é um projeto que implementa uma calculadora de salário de funcionários e
 1. Clone este repositório para o seu sistema local.
 2. Navegue até o diretório do projeto.
 3. Instale as dependências do projeto.
-    npm install
+
+       npm install
 
 ### Execução dos Testes
 Para executar os testes para a calculadora de salário de funcionários, use o seguinte comando:
-    '''bash 
+
     npm test
 
 ### E caso queira testar um especifico (exemplo utilizando o PersonDAO, caso queira outro, trocar ali):
