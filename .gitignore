@@ -1,0 +1,5 @@
+# Arquivos e diretórios gerados pelo Node.js / npm
+/node_modules
+
+# Arquivos gerados pelo compilador TypeScript
+/dist
